@@ -1,5 +1,9 @@
+ipython
+jupyter
 numpy
 pandas
 matplotlib
 mistune
 sklearn
+sympy
+nose
